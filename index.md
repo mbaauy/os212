@@ -6,7 +6,7 @@ Welcome to my page for Operating Systems class. You also can see **[My GitHub Re
 <br>
 
 ### Nothings more do you need? Let's get to know me better! (❁´◡`❁)
-Hi my name is Aulia Nur Fadhilah. I'm enrolled in Operating Systems class B. Great interacting with you! 
+Hi my name is Aulia. Great interacting with you! 
 <br>
 <br>
 
