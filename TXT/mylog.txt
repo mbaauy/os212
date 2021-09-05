@@ -3,12 +3,9 @@
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
 
 # [WEEK 00]
-ZCZC W00  15 L03 GitHub related
-ZCZC W00  10 L01 SCELE/Discord related
-ZCZC W00  10 L06 Read OS00 slide
-ZCZC W00 100 L02 ZOOM meetings related
-ZCZC W00  05 L11 Assignment #1: public repository
-ZCZC W00  15 L12 Assignment #2: start week 00 log
-ZCZC W00  30 L13 Assignment #3: create github page
-ZCZC W00  05 L14 Assignment #4: course registration
-ZCZC W00  03 L64 Helping OS related problem to a friend
+ZCZC W00  20 L03 GitHub related
+ZCZC W00  30 L01 SCELE/Discord related
+ZCZC W00 120 L02 ZOOM meetings related
+ZCZC W00  65 L09 Assignment in General
+ZCZC W00  05 L64 Helping OS related problem to a friend
+ZCZC W00  60 L05 GSGS related
