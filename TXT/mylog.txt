@@ -17,10 +17,13 @@ ZCZC W01  45 L08 Assistance with AsDos
 ZCZC W01  15 L03 GitHub related
 ZCZC W01  15 L04 GitHub Pages related
 ZCZC W01  20 L05 Quiz related: GSGS, quiz
-ZCZC W01  30 L11 Assignment #1: VirtualBox Guest Preparation
-ZCZC W01  30 L12 Assignment #2: Importing and Running a VirtualBox Debian Guest
-ZCZC W01  30 L14 Assignment #4: Dress Up Virtual Guest
-ZCZC W01  25 L15 Assignment #5: SSH Keys and Git Cloning
-ZCZC W01  15 L16 Assignment #6: Dress Up GitHub Pages
-ZCZC W01  15 l17 Assignment #7: Update log
+ZCZC W01  30 L11 Assignment #01: VirtualBox Guest Preparation
+ZCZC W01  30 L12 Assignment #02: Importing and Running a VirtualBox Debian Guest
+ZCZC W01  15 L13 Assignment #03: Learn/Try CLI command, scripting, etc
+ZCZC W01  30 L14 Assignment #04: Dress Up Virtual Guest
+ZCZC W01  25 L15 Assignment #05: SSH Keys and Git Cloning
+ZCZC W01  15 L16 Assignment #06: Dress Up GitHub Pages
+ZCZC W01  15 l17 Assignment #07: Update log
+ZCZC W01  25 L18 Assignment #08: More on bash, regex, sed, and awk
+ZCZC W01  15 L19 Assignment #09: Read slides
 ZCZC W01  10 L64 Helping OS related problem to a friend
