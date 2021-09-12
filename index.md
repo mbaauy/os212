@@ -1,13 +1,10 @@
 # Operating System 2021-2 (OS212)
 
+🏠 [Home](.) | 🔗 [Links](LINKS/) | 🔲 [GitHub](https://github.com/mbaauy/os212/) | 📃 [Log](TXT/mylog.txt)
+
 ### Hi there! ヾ(＾-＾)ノ
-Welcome to my page for Operating Systems class. You also can see **[My GitHub Repo](https://github.com/mbaauy/os212/)** or **[My Log](TXT/mylog.txt)** if you don't mind.
+Welcome to mbaauy's page for Operating Systems class. Great interacting with you!
 <br>
 <br>
 
-### Nothings more do you need? Let's get to know me better! (❁´◡`❁)
-Hi my name is Aulia. Great interacting with you! 
-<br>
-<br>
-
-> **📝 with 🤍 by Aulia - 2021**
+> **mbaauy - 2021**
