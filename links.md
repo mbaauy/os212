@@ -23,3 +23,19 @@ AWK is a brilliant scripting language for processing text files, comma separated
    
 5. [Scripting: SED](https://www.youtube.com/watch?v=32waL1Z9XK0&ab_channel=KrisOcchipinti) <br>
 Sed (Stream Editor) functions to manipulate input in streams, either in the form of direct input or reading from a file. The video shows how to use sed and provides examples of its use.
+
+# Week 02
+1. [Protection](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/14_Protection.html) <br>
+This link provides material about protection taken from Silberschatz's book. This is quite useful for me who prefers to read material on a page rather than from a book or slides.
+
+2. [Security](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/15_Security.html) <br>
+Same as the previous link, this page also provides a summary of material taken from Silberschatz's book. This page discusses about security and also provides other reference links for additional reading
+
+3. [GNU Privacy Guard](https://medium.com/kode-dan-kodean/belajar-memakai-gnu-privacy-guard-gnupg-gpg-3944e19dba91) <br>
+GnuPG is an application that is used to encrypt, decrypt, and digitally sign data before we exchange the data between devices. This article provides a comprehensive and easy-to-understand explanation and this page is also written in Bahasa.
+
+4. [Encryption](https://medium.com/searchencrypt/what-is-encryption-how-does-it-work-e8f20e340537) <br>
+This article contains a basic explanation of encryption. Although written briefly, this article can be a good starting point before studying encryption more deeply.
+
+5. [Scripting: Bash](https://medium.com/sysf/bash-scripting-everything-you-need-to-know-about-bash-shell-programming-cd08595f2fba) & [Bash Cheatsheet](https://devhints.io/bash) <br>
+Bash (AKA Bourne Again Shell) is a type of interpreter that processes shell commands. Basically, bash script contains a series of Linux commands with some logical structures and conditions to carry out certain tasks, like other programming languages. This link contains a fairly complete explanation of bash scripting. There is also a cheatsheet to help us in bash scripting.
