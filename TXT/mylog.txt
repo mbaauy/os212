@@ -53,7 +53,12 @@ ZCZC W03  50 L08 Assistance with AsDos
 ZCZC W03  60 L05 Quiz related: GSGS, quiz, etc
 ZCZC W03  20 L27 Create new secret key and delete the old key
 ZCZC W03  10 L61 Backup Virtual Box
+ZCZC W03  30 L11 Assignment #01: Read OSC10 ch. 13, 14, 15
 ZCZC W03  60 L12 Assignment #02: Try Demos: FUSE
+ZCZC W03  20 L13 Assignment #03: Try prev. midterm problems
 ZCZC W03  05 L14 Assignment #04: Check ".bash_aliases" is up-to-date
 ZCZC W03  30 L15 Assignment #05: Create an extra virtual disk
-ZCZC W03  10 L18 Assignment #08: Update "mylog.txt"
+ZCZC W03  30 L16 Assignmnet #06: Update my bookmark links
+ZCZC W03  15 L17 Assignment #07: Review my peer links
+ZCZC W03  15 L18 Assignment #08: Update "mylog.txt"
+ZCZC W03  10 L19 Assignment #09: Submit my Week 03 assignment
