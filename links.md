@@ -39,3 +39,13 @@ This article contains a basic explanation of encryption. Although written briefl
 
 5. [Scripting: Bash](https://medium.com/sysf/bash-scripting-everything-you-need-to-know-about-bash-shell-programming-cd08595f2fba) & [Bash Cheatsheet](https://devhints.io/bash) <br>
 Bash (AKA Bourne Again Shell) is a type of interpreter that processes shell commands. Basically, bash script contains a series of Linux commands with some logical structures and conditions to carry out certain tasks, like other programming languages. This link contains a fairly complete explanation of bash scripting. There is also a cheatsheet to help us in bash scripting.
+
+# Week 03
+1. [FUSE: File Systems in User Space](https://fsgeek.ca/2019/06/18/fuse-file-systems-in-user-space/)<br>
+FUSE (File Systems in User Space) is one of the most important parts in the operating systems. This website explains FUSE quite comprehensively.
+
+2. [What Is a File System, and Why Are There So Many of Them?](https://www.howtogeek.com/196051/htg-explains-what-is-a-file-system-and-why-are-there-so-many-of-them/)<br>
+Still discussing file systems, this website explains why there are so many of them.
+
+3. [Managing File Permission on Linux](https://www.comentum.com/unix-osx-permissions.html#:~:text=FIle%20type%3A%20%22%20%2D%20%22%20means,the%20owner%20of%20the%20file)<br>
+One very important potential vulnerability can exist when local access is granted, that is file permission based issues resulting from a user not assigning the correct permissions to files and directories. This website gives some examples of how to manage file permissions in Linux.
