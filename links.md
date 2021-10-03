@@ -49,3 +49,22 @@ Still discussing file systems, this website explains why there are so many of th
 
 3. [Managing File Permission on Linux](https://www.comentum.com/unix-osx-permissions.html#:~:text=FIle%20type%3A%20%22%20%2D%20%22%20means,the%20owner%20of%20the%20file)<br>
 One very important potential vulnerability can exist when local access is granted, that is file permission based issues resulting from a user not assigning the correct permissions to files and directories. This website gives some examples of how to manage file permissions in Linux.
+
+# WEEK 04
+1. [Tar Command](http://www.linfo.org/tar.html)<br>
+The tar command is used to convert a group of files into an archive. An archive is a single file that contains any number of individual files plus information to allow them to be restored to their original form by one or more extraction programs. This page explains some basic tar commands.
+
+2. [What is a Makefile?](https://opensource.com/article/18/8/what-how-makefile)<br>
+Run and compile programs are can more efficient with an automation tool called makefile, which defines a set of tasks to be executed. This website provides information about what makefiles are and its basic examples with easy-to-understand explanations.
+
+3. [Virtual Address Translation (Text)](https://blogs.vmware.com/vsphere/2020/03/how-is-virtual-memory-translated-to-physical-memory.html) & [Virtual Address Translation (Video)](https://www.youtube.com/watch?v=ZjKS1IbiGDA&ab_channel=DavidBlack-Schaffer)<br>
+Memory is one of the most important host resources. Both of the reading text and the video will cover the basics on how virtual memory addresses are translated.
+
+4. [C Languages Pointers (Text)](https://www.youtube.com/watch?v=mw1qsMieK5c&ab_channel=GaryExplains) & [C Languages Pointers (Video)](https://beginnersbook.com/2014/01/c-pointers/)<br>
+A pointer is a variable that stores the address of another variable. Both links contain a short but clear tutorial on a pointer in C languages.
+
+5. [C Languages Cheatsheet](https://cheatography.com/ashlyn-black/cheat-sheets/c-reference/)<br>
+The cheatsheet is very useful in summarizing the syntax in C.
+
+6. [C Programming Exercises](https://www.w3resource.com/c-programming-exercises/)<br>
+The best way to learn anything is by practice and exercise questions. This website is beneficial and can help us in C language through various practice questions provided.
