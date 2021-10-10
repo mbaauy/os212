@@ -84,3 +84,6 @@ Memory management is the functionality of an operating system which handles or m
 
 4. [Page Replacement Algorithms](https://www.geeksforgeeks.org/page-replacement-algorithms-in-operating-systems/)<br>
 In an operating system that uses paging for memory management, a page replacement algorithm is needed to decide which page needs to be replaced when new page comes in. This link will explain the page replacement algorithms clearly.
+
+5. [Top Command in Linux](https://www.tecmint.com/12-top-command-examples-in-linux/)<br>
+The top command (table of processes) displays the processor activity of our Linux box and also displays tasks managed by the kernel in real-time. This link will explain top command in Linux with examples.
