@@ -9,7 +9,7 @@ permalink: /LINKS/
 This video explains the structure of operating systems, starting with the components that make up the functionality. This video helps us to remember about ICO lesson and integrate it with our current topic, operating systems.
 
 # Week 01
-1. [37 Important Linux Command You Should Know](https://www.howtogeek.com/412055/37-important-linux-commands-you-should-know/) & [10 Linux Terminal Commands for Beginners](https://www.youtube.com/watch?v=CpTfQ-q6MPU&ab_channel=GaryExplains) <br>
+1. [37 Important Linux Command You Should Know](https://www.howtogeek.com/412055/37-important-linux-commands-you-should-know/) & [10 Linux Terminal Commands for Beginners](https://www.youtube.com/watch?v=CpTfQ-q6MPU&ab_channel=GaryExplains) & [Linux Command Cheat Sheet](https://www.guru99.com/linux-commands-cheat-sheet.html) <br>
 This website provides some common Linux commands that can help those who are not familiar with Linux yet.
 
 2. [Shell Scripting Tutorial](https://www.shellscript.sh/) <br>
@@ -44,7 +44,7 @@ Bash (AKA Bourne Again Shell) is a type of interpreter that processes shell comm
 1. [FUSE: File Systems in User Space](https://fsgeek.ca/2019/06/18/fuse-file-systems-in-user-space/)<br>
 FUSE (File Systems in User Space) is one of the most important parts in the operating systems. This website explains FUSE quite comprehensively.
 
-2. [What Is a File System, and Why Are There So Many of Them?](https://www.howtogeek.com/196051/htg-explains-what-is-a-file-system-and-why-are-there-so-many-of-them/)<br>
+2. [What Is a File System](https://www.howtogeek.com/196051/htg-explains-what-is-a-file-system-and-why-are-there-so-many-of-them/)<br>
 Still discussing file systems, this website explains why there are so many of them.
 
 3. [Managing File Permission on Linux](https://www.comentum.com/unix-osx-permissions.html#:~:text=FIle%20type%3A%20%22%20%2D%20%22%20means,the%20owner%20of%20the%20file)<br>
@@ -60,11 +60,27 @@ Run and compile programs are can more efficient with an automation tool called m
 3. [Virtual Address Translation (Text)](https://blogs.vmware.com/vsphere/2020/03/how-is-virtual-memory-translated-to-physical-memory.html) & [Virtual Address Translation (Video)](https://www.youtube.com/watch?v=ZjKS1IbiGDA&ab_channel=DavidBlack-Schaffer)<br>
 Memory is one of the most important host resources. Both of the reading text and the video will cover the basics on how virtual memory addresses are translated.
 
-4. [C Languages Pointers (Text)](https://www.youtube.com/watch?v=mw1qsMieK5c&ab_channel=GaryExplains) & [C Languages Pointers (Video)](https://beginnersbook.com/2014/01/c-pointers/)<br>
+4. [C Languages: Pointers (Video)](https://www.youtube.com/watch?v=mw1qsMieK5c&ab_channel=GaryExplains) & [C Languages Pointers: (Text)](https://beginnersbook.com/2014/01/c-pointers/)<br>
 A pointer is a variable that stores the address of another variable. Both links contain a short but clear tutorial on a pointer in C languages.
 
-5. [C Languages Cheatsheet](https://cheatography.com/ashlyn-black/cheat-sheets/c-reference/)<br>
+5. [C Languages: Cheatsheet](https://cheatography.com/ashlyn-black/cheat-sheets/c-reference/)<br>
 The cheatsheet is very useful in summarizing the syntax in C.
 
-6. [C Programming Exercises](https://www.w3resource.com/c-programming-exercises/)<br>
+6. [C Programming: Exercises](https://www.w3resource.com/c-programming-exercises/)<br>
 The best way to learn anything is by practice and exercise questions. This website is beneficial and can help us in C language through various practice questions provided.
+
+7. [C Languages: Arrays and Pointers](https://www.youtube.com/playlist?list=PLBlnK6fEyqRjoG6aJ4FvFU1tlXbjLBiOP)<br>
+This link provides a complete tutorial about arrays and pointers in C.
+
+# WEEK 05
+1. [Chmod and Chown](https://www.hostinger.co.id/tutorial/pengertian-chmod-dan-chown-untuk-ganti-permission-di-linux/) & [Chmod Calculator](https://chmodcommand.com/)<br>
+In Chmod and Chown tutorial, you will learn how to change file/folder permissions and owners via the command line. And the Chmod Calculator allows you to quickly generate permissions in numerical and symbolic formats so you’ll be ready to copy paste your chmod command into your terminal in seconds. These articles help me in doing my assignment: W05 Contact.
+
+2. [[part 1] Virtual Memory](https://www.youtube.com/watch?v=2quKyPnUShQ&ab_channel=AndroidAuthority) & [[part 2] Virtual Memory](https://www.youtube.com/watch?v=qlH4-oHnBb8&ab_channel=DavidBlack-Schaffer)<br>
+From the explanations above, we will learn what virtual memory is, indirection between the program's addresses and the RAM addresses, mapping disk space into memory, and using indirection for program security and isolation.
+
+3. [Memory Management](https://www.tutorialspoint.com/operating_system/os_memory_management.htm)<br>
+Memory management is the functionality of an operating system which handles or manages primary memory and moves processes back and forth between main memory and disk during execution. This tutorial will teach us basic concepts related to memory management.
+
+4. [Page Replacement Algorithms](https://www.geeksforgeeks.org/page-replacement-algorithms-in-operating-systems/)<br>
+In an operating system that uses paging for memory management, a page replacement algorithm is needed to decide which page needs to be replaced when new page comes in. This link will explain the page replacement algorithms clearly.
