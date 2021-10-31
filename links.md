@@ -87,19 +87,3 @@ In an operating system that uses paging for memory management, a page replacemen
 
 5. [Top Command in Linux](https://www.tecmint.com/12-top-command-examples-in-linux/)<br>
 The top command (table of processes) displays the processor activity of our Linux box and also displays tasks managed by the kernel in real-time. This link will explain top command in Linux with examples.
-
-# WEEK 06
-1. Process in Operating System: [Process in Operating System](https://www.studytonight.com/operating-system/operating-system-processes) & [What is a Process in Operating System?](https://afteracademy.com/blog/what-is-a-process-in-operating-system-and-what-are-the-different-states-of-a-process) & [Process Management](https://www.guru99.com/process-management-pcb.html) <br>
-A process is a program in execution which then forms the basis of all computation. The links above provide an explanation of the processes in the operating system and cover quite a lot. 
-
-2. Thread in Operating System: [What is a Thread in Operating System](https://afteracademy.com/blog/what-is-a-thread-in-os-and-what-are-the-differences-between-a-process-and-a-thread) & [Multithreading](https://www.studytonight.com/operating-system/multithreading) <br>
-A thread is an execution unit that has its own program counter, a stack and a set of registers that reside in a process. Process and threads may be a bit similar, and some people will have difficulty understanding them. But the links above can help you know what threads are in operating systems.
-
-3. Process vs Thread: [Process vs Thread](https://www.javatpoint.com/process-vs-thread) & [Difference between Process and Thread](https://www.guru99.com/difference-between-process-and-thread.html.) <br>
-"Difference between process and thread" is one of the widely asked questions of technical interviews. Both processes and threads are related to each other and very much similar, hence create confusion to understand the differences between both of them. The links above can help us to distinguish the two.
-
-4. Fork and Exec in C: [Coding with fork and exec by example](https://linuxhint.com/fork-exec-coding-c/) & [fork() and exec()](https://ece.uwaterloo.ca/~dwharder/icsrts/Tutorials/fork_exec/) & [Using fork and exec](http://boron.physics.metu.edu.tr/ozdogan/SystemsProgramming/week4/node10.html) <br>
-There is zero possibility of occurring more than one program at a time in C. Only a single task can happen at a particular time, which means it doesn’t allow concurrent programs to run. It causes you to wait for the completion of one process to execute the other one. To avoid this troubleshooting problem, it's good for us to learn the two commands above.
-
-5. [Sleep vs Wait In Threading](https://www.youtube.com/watch?v=wd-_TT0a5d4&ab_channel=CppNuts) <br>
-In that video, we may learn that what is the difference between thread sleep and thread wait.
