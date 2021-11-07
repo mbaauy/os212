@@ -105,7 +105,7 @@ The two links above provide an easy-to-understand explanation of the sleep and w
 5. Fork and Exec in C: [Fork and Exec Example](https://linuxhint.com/fork-exec-coding-c/) & [Fork and Exec](https://ece.uwaterloo.ca/~dwharder/icsrts/Tutorials/fork_exec/) & [Using Fork and Exec in C](http://boron.physics.metu.edu.tr/ozdogan/SystemsProgramming/week4/node10.html)<br>
 There is zero possibility of occurring more than one program at a time in C. Only a single task can happen at a particular time, which means it doesn’t allow concurrent programs to run. It causes you to wait for the completion of one process to execute the other one. To avoid this troubleshooting problem, we may need to learn fork() and exec() that is used to overcome the waiting and to allow concurrency in our system.
 
-## Week 07
+# WEEK 07
 1. [Process Synchronization](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/5_Synchronization.html)<br>
 This link provides material about process synchronization taken from Silberschatz's book. This is quite useful for me who prefers to read material on a page rather than from a book or slides. 
 
