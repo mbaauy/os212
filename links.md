@@ -89,12 +89,18 @@ In an operating system that uses paging for memory management, a page replacemen
 The top command (table of processes) displays the processor activity of our Linux box and also displays tasks managed by the kernel in real-time. This link will explain top command in Linux with examples.
 
 # WEEK 06
-1. Process in Operating Systems: [What is Process in Operating Systems](https://afteracademy.com/blog/what-is-a-process-in-operating-system-and-what-are-the-different-states-of-a-process) & [Process in Operating Systems](https://www.studytonight.com/operating-system/operating-system-processes) & [Process Management](https://www.guru99.com/process-management-pcb.html)<br>
+1. Process in Operating Systems: [What is a Process in Operating Systems](https://afteracademy.com/blog/what-is-a-process-in-operating-system-and-what-are-the-different-states-of-a-process) & [Process in Operating Systems](https://www.studytonight.com/operating-system/operating-system-processes) & [Process Management](https://www.guru99.com/process-management-pcb.html)<br>
+In the Operating System, a process is something that is currently under execution. The articles above provide a fairly complete explanation of what a process is.
 
-2. Thread in Opearting Systems: [What is Thread in Opearting Systems](https://afteracademy.com/blog/what-is-a-thread-in-os-and-what-are-the-differences-between-a-process-and-a-thread) & [Multithreading](https://www.studytonight.com/operating-system/multithreading) <br>
 
-3. Process vs Thread: [Process vs Thread](https://www.javatpoint.com/process-vs-thread) & [](https://www.guru99.com/difference-between-process-and-thread) <br>
+2. Thread in Opearting Systems: [What is a Thread in Opearting Systems](https://afteracademy.com/blog/what-is-a-thread-in-os-and-what-are-the-differences-between-a-process-and-a-thread) & [Multithreading](https://www.studytonight.com/operating-system/multithreading) <br>
+A thread is an execution unit that has its own program counter, a stack and a set of registers that reside in a process. The articles above provide a fairly complete explanation of what a thread is.
 
-4. [Sleep vs Wait in C](https://www.youtube.com/watch?v=wd-_TT0a5d4&ab_channel=CppNuts)<br>
+3. Process vs Thread: [Process vs Thread](https://www.javatpoint.com/process-vs-thread) & [Difference between Process and Thread](https://www.guru99.com/difference-between-process-and-thread) <br>
+Tread and process are two related things. Threads can't exist outside any process. Also, each thread belongs to exactly one process. Distinguishing the two is sometimes quite tricky. But the articles above can help us to understand the difference between the two.
+
+4. Sleep vs Wait: [Sleep vs Wait in C](https://www.youtube.com/watch?v=wd-_TT0a5d4&ab_channel=CppNuts) & [Sleep vs Wait in Java](https://howtodoinjava.com/java/multi-threading/sleep-vs-wait/)<br>
+The two links above provide an easy-to-understand explanation of the sleep and wait functions, both in terms of the C and Java programming languages.
 
 5. Fork and Exec in C: [Fork and Exec Example](https://linuxhint.com/fork-exec-coding-c/) & [Fork and Exec](https://ece.uwaterloo.ca/~dwharder/icsrts/Tutorials/fork_exec/) & [Using Fork and Exec in C](http://boron.physics.metu.edu.tr/ozdogan/SystemsProgramming/week4/node10.html)<br>
+There is zero possibility of occurring more than one program at a time in C. Only a single task can happen at a particular time, which means it doesn’t allow concurrent programs to run. It causes you to wait for the completion of one process to execute the other one. To avoid this troubleshooting problem, we may need to learn fork() and exec() that is used to overcome the waiting and to allow concurrency in our system.
