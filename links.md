@@ -104,3 +104,16 @@ The two links above provide an easy-to-understand explanation of the sleep and w
 
 5. Fork and Exec in C: [Fork and Exec Example](https://linuxhint.com/fork-exec-coding-c/) & [Fork and Exec](https://ece.uwaterloo.ca/~dwharder/icsrts/Tutorials/fork_exec/) & [Using Fork and Exec in C](http://boron.physics.metu.edu.tr/ozdogan/SystemsProgramming/week4/node10.html)<br>
 There is zero possibility of occurring more than one program at a time in C. Only a single task can happen at a particular time, which means it doesn’t allow concurrent programs to run. It causes you to wait for the completion of one process to execute the other one. To avoid this troubleshooting problem, we may need to learn fork() and exec() that is used to overcome the waiting and to allow concurrency in our system.
+
+## Week 07
+1. [Process Synchronization](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/5_Synchronization.html)<br>
+This link provides material about process synchronization taken from Silberschatz's book. This is quite useful for me who prefers to read material on a page rather than from a book or slides. 
+
+2. [Mutex Lock for Linux Thread Synchronization](https://www.geeksforgeeks.org/mutex-lock-for-linux-thread-synchronization/)<br>
+After learning about process synchronization, we may have realized that it can cause problems. The most popular way of achieving thread synchronization is by using mutexes.
+
+3. Semaphores: [Semaphores](https://riptutorial.com/c/example/31715/semaphores) & [Use Semaphores in C](https://www.geeksforgeeks.org/use-posix-semaphores-c/)<br>
+Like mutex lock, semaphores are also very useful in process synchronization and multithreading. Semaphores are used to synchronize operations between two or more processes.
+
+4. Mutex vs Semaphore: [What’s the Difference?](https://www.guru99.com/mutex-vs-semaphore.html) & [Difference between Mutex and Semaphore in Operating System](https://afteracademy.com/blog/difference-between-mutex-and-semaphore-in-operating-system) & [Mutex vs Semaphore (1)](https://www.baeldung.com/cs/semaphore-vs-mutex) & [Mutex vs Semaphore (2)](https://www.geeksforgeeks.org/mutex-vs-semaphore/)<br>
+Semaphore and mutex are two mechanisms through which we can implement synchronization and manage process coordination. In those articles, we’ll look into these two synchronization utilities and compare various characteristics.
