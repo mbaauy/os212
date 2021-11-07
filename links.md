@@ -87,3 +87,14 @@ In an operating system that uses paging for memory management, a page replacemen
 
 5. [Top Command in Linux](https://www.tecmint.com/12-top-command-examples-in-linux/)<br>
 The top command (table of processes) displays the processor activity of our Linux box and also displays tasks managed by the kernel in real-time. This link will explain top command in Linux with examples.
+
+# WEEK 06
+1. Process in Operating Systems: [What is Process in Operating Systems](https://afteracademy.com/blog/what-is-a-process-in-operating-system-and-what-are-the-different-states-of-a-process) & [Process in Operating Systems](https://www.studytonight.com/operating-system/operating-system-processes) & [Process Management](https://www.guru99.com/process-management-pcb.html)<br>
+
+2. Thread in Opearting Systems: [What is Thread in Opearting Systems](https://afteracademy.com/blog/what-is-a-thread-in-os-and-what-are-the-differences-between-a-process-and-a-thread) & [Multithreading](https://www.studytonight.com/operating-system/multithreading) <br>
+
+3. Process vs Thread: [Process vs Thread](https://www.javatpoint.com/process-vs-thread) & [](https://www.guru99.com/difference-between-process-and-thread) <br>
+
+4. [Sleep vs Wait in C](https://www.youtube.com/watch?v=wd-_TT0a5d4&ab_channel=CppNuts)<br>
+
+5. Fork and Exec in C: [Fork and Exec Example](https://linuxhint.com/fork-exec-coding-c/) & [Fork and Exec](https://ece.uwaterloo.ca/~dwharder/icsrts/Tutorials/fork_exec/) & [Using Fork and Exec in C](http://boron.physics.metu.edu.tr/ozdogan/SystemsProgramming/week4/node10.html)<br>
