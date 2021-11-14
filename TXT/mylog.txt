@@ -117,3 +117,17 @@ ZCZC W07  60 L15 Assignment #05: Update my bookmark links
 ZCZC W07  20 L17 Assignment #07: Review my peer links
 ZCZC W07  25 L18 Assignment #08: Update "mylog.txt"
 ZCZC W07  15 L19 Assignment #09: Submit my week 07 assignment
+
+# WEEK 08
+ZCZC W08  75 L01 SCELE/Discord related
+ZCZC W08  75 L02 ZOOM meetings related
+ZCZC W08  90 L05 Quiz related: GSGS, quiz, etc
+ZCZC W08  60 L11 Assignment #01: Read OSC10 ch.5
+ZCZC W08  20 L12 Assignment #02: Try Demos
+ZCZC W08  75 L13 Assignment #03: Try prev. final term problems
+ZCZC W08  75 L14 Assignmnet #04: LFS ch. 01-04
+ZCZC W08 100 L15 Assignment #05: LFS ch. 05
+ZCZC W08  45 L16 Assignment #06: Update my bookmark links
+ZCZC W08  20 L18 Assignment #08: Review my peer links
+ZCZC W08  25 L19 Assignment #08: Update "mylog.txt"
+ZCZC W08  15 L20 Assignment #10: Submit my week 08 assignment

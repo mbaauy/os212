@@ -117,3 +117,13 @@ Like mutex lock, semaphores are also very useful in process synchronization and 
 
 4. Mutex vs Semaphore: [What’s the Difference?](https://www.guru99.com/mutex-vs-semaphore.html) & [Difference between Mutex and Semaphore in Operating System](https://afteracademy.com/blog/difference-between-mutex-and-semaphore-in-operating-system) & [Mutex vs Semaphore (1)](https://www.baeldung.com/cs/semaphore-vs-mutex) & [Mutex vs Semaphore (2)](https://www.geeksforgeeks.org/mutex-vs-semaphore/)<br>
 Semaphore and mutex are two mechanisms through which we can implement synchronization and manage process coordination. In those articles, we’ll look into these two synchronization utilities and compare various characteristics.
+
+# WEEK 08
+1. [CPU Scheduling](https://www.guru99.com/cpu-scheduling-algorithms.html#2)<br>
+CPU Scheduling is a process of determining which process will own CPU for execution while another process is on hold. In this CPU scheduling tutorial, you will learn about what is CPU scheduling, types of CPU scheduling, scheduling algortihm overview, and others.
+
+2. [Processes, Threads, & CPU Scheduling](http://labe.felk.cvut.cz/courses/AE3B33OSD/Lesson03-ProcessesThreads.pdf) <br>
+This slide discusses processes and threads in system operations comprehensively. This slide covers the material we have studied this week and last week.
+
+3. Scheduling Algorithm: [Part 1](https://medium.com/geekculture/scheduling-algorithms-in-operating-systems-d7d8b0d504aa) & [Part 2](https://afteracademy.com/blog/process-scheduling-algorithms-in-the-operating-system) & [Part 3](https://vsonwalkar3.medium.com/scheduling-algorithms-in-operating-system-bade5f192ca4)<br>
+In a system, there are a number of processes that are present in different states at a particular time. Some processes may be in the waiting state, others may be in the running state and so on. Like humans, the operating system needs to plan its activities. Therefore, it's important to learn process scheduling.
