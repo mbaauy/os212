@@ -127,3 +127,13 @@ This slide discusses processes and threads in system operations comprehensively.
 
 3. Scheduling Algorithm: [Part 1](https://medium.com/geekculture/scheduling-algorithms-in-operating-systems-d7d8b0d504aa) & [Part 2](https://afteracademy.com/blog/process-scheduling-algorithms-in-the-operating-system) & [Part 3](https://vsonwalkar3.medium.com/scheduling-algorithms-in-operating-system-bade5f192ca4)<br>
 In a system, there are a number of processes that are present in different states at a particular time. Some processes may be in the waiting state, others may be in the running state and so on. Like humans, the operating system needs to plan its activities. Therefore, it's important to learn process scheduling.
+
+# WEEK 09
+1. [Disk Scheduling](https://www.javatpoint.com/os-disk-scheduling)<br>
+Disk scheduling is done by operating systems to schedule I/O requests arriving for the disk. Disk scheduling is also known as I/O scheduling.
+
+2. [Disk Scheduling Algorithm](https://www.geeksforgeeks.org/disk-scheduling-algorithms/)<br>
+Disk scheduling is important. This article describes the algorithms used in disk scheduling.
+
+3. Disk Scheduling: [FCFS](https://www.javatpoint.com/os-fcfs-scheduling-algorithm) & [SSTF](https://www.javatpoint.com/os-sstf-scheduling-algorithm) & [SCAN and C-SCAN](https://www.javatpoint.com/os-scan-and-c-scan-algorithm) & [Look and C-Look](https://www.javatpoint.com/os-look-and-c-look-scheduling) <br>
+The links above explain the disk scheduling algorithm one by one quite completely.
